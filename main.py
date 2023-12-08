@@ -26,7 +26,7 @@ with open("res.txt", encoding="UTF-8") as f:
                 dc_1.append(ingredient_dict)
             ingredients_list.append(dc_1)
             cook_book[dish_name] = ingredients_list
-            #подскажите пожалуйста почему смешываются ингредиенты
+            #подскажите, пожалуйста, почему смешываются ингредиенты
 
 
 
